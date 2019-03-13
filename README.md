@@ -1,7 +1,7 @@
 # id_generator
 Library to generate german passport serial as described in https://de.wikipedia.org/wiki/Ausweisnummer
 
-This is useful for several situations such as bypass age restrictions (which i don't recommend) or for staying anonymous when such information is needed.
+This is useful for several situations such as bypassing age restrictions (which i don't recommend) or for staying anonymous when such information is needed.
 
 Note:
 I'm not responsible for possible harm or damage caused by the usage of this library since this is for educational use only
